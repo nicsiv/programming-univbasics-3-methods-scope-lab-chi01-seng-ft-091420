@@ -8,5 +8,5 @@ def toadstool
 end
 
 def link
-  puts status = "Thank You Mario! But Our Princess Is In Another Castle!"
+  puts status = "It's Dangerous To Go Alone! Take This."
 end
